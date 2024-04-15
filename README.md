@@ -1,9 +1,9 @@
 Get the latest version of the document
 
-https://github.com/netbee-online/NetbeePos/releases
+[📄 Download](https://github.com/netbee-online/NetbeePos/blob/main/NetbeePOS-Protocol.pdf)
 
 -----------------------------------------------------------
 
 Sample code for Kotlin
 
-https://github.com/netbee-online/NetbeePosSampleKotlin
+[📦 GitHub Repository](https://github.com/netbee-online/NetbeePosSampleKotlin)
